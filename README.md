@@ -10,6 +10,8 @@ I'm a CS student at ISAMM (Higher Institute Of Multimedia Arts Of Manouba). I'm 
 ![OpenCV](https://a11ybadges.com/badge?logo=opencv)
 ![Python](https://a11ybadges.com/badge?logo=python)
 ![Linux](https://a11ybadges.com/badge?logo=linux)
+![scikit-learn](https://a11ybadges.com/badge?logo=scikitlearn)
+
 
 
 
