@@ -2,15 +2,11 @@
 
 
 <p align="center">
-  <div style="display: flex; align-items: center; justify-content: center;">
-    <a href="[https://www.pinterest.com/pin/33565959717582655/](https://www.pinterest.com/pin/33565959717582655/)">
-      <img src="[https://via.placeholder.com/100](https://via.placeholder.com/100)" alt="Click to view on Pinterest" style="margin-right: 20px;"/>
-    </a>
-    <span style="font-size: 100px; font-family: sans-serif;">
-      Hello there
-    </span>
-  </div>
+  <a href="https://www.pinterest.com/pin/33565959717582655/">
+    <img src="hello_there.jpg" alt="Click to view on Pinterest" style="width: 350px; border-radius: 50%;"/>
+  </a>
 </p>
+
 **`A Google Developer Group On Campus Organizer and a Computer Science Student based in Tunisia`**
 
 ## Let's connect
