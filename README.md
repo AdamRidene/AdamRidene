@@ -1,16 +1,38 @@
 # Adam Ridene
-**`Computer Science Student specializing in IoT development`**
 
-I'm a CS student at ISAMM (Higher Institute Of Multimedia Arts Of Manouba). I'm dedicated to improving myself and building a good career.
-## Connect with Me
-[![text](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adamridene23)
-[![text](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/adam_ridene/)
-## Languages and Tools
-![C++](https://a11ybadges.com/badge?logo=cplusplus)
-![OpenCV](https://a11ybadges.com/badge?logo=opencv)
-![Python](https://a11ybadges.com/badge?logo=python)
-![Linux](https://a11ybadges.com/badge?logo=linux)
-![scikit-learn](https://a11ybadges.com/badge?logo=scikitlearn)
+
+<p align="center">
+  <div style="display: flex; align-items: center; justify-content: center;">
+    <a href="[https://www.pinterest.com/pin/33565959717582655/](https://www.pinterest.com/pin/33565959717582655/)">
+      <img src="[https://via.placeholder.com/100](https://via.placeholder.com/100)" alt="Click to view on Pinterest" style="margin-right: 20px;"/>
+    </a>
+    <span style="font-size: 100px; font-family: sans-serif;">
+      Hello there
+    </span>
+  </div>
+</p>
+**`A Google Developer Group On Campus Organizer and a Computer Science Student based in Tunisia`**
+
+## Let's connect
+<p align="center">
+  <a href="https://www.linkedin.com/in/adamridene23">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://www.instagram.com/adam_ridene/">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/>
+  </a>
+  <a href="https://www.kaggle.com/adamridene">
+    <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
+
+## Tools I have used and learned
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,cpp,sklearn,pytorch,tensorflow&theme=light" />
+  </a>
+</p>
+
 
 
 
