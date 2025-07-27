@@ -25,7 +25,7 @@
 ## Tools I have used and learned
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,sklearn,pytorch,tensorflow&theme=light" />
+    <img src="https://skillicons.dev/icons?i=python,js,nodejs,cpp,sklearn,pytorch,tensorflow&theme=light" />
   </a>
 </p>
 
