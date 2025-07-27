@@ -1,4 +1,4 @@
-# Adam Ridene
+# Hello There
 
 
 <p align="center">
@@ -20,6 +20,14 @@
   <a href="https://www.kaggle.com/adamridene">
     <img src="https://img.shields.io/badge/Kaggle-035a7d?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/>
   </a>
+  <a href="https://x.com/adam_ridene">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://leetcode.com/u/Domm_Rd/">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="Leetcode"/>
+  </a>
+  
+  
 </p>
 
 ## Tools I have used and learned
