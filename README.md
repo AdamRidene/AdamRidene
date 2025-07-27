@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://www.pinterest.com/pin/33565959717582655/">
-    <img src="hello_there.jpg" alt="Click to view on Pinterest" style="width: 350px; border-radius: 50%;"/>
+    <img src="vault-boy-fallout.gif" alt="Click to view on Pinterest"/>
   </a>
 </p>
 
